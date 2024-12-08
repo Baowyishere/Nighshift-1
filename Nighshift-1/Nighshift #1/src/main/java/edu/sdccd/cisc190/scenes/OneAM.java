@@ -15,6 +15,9 @@ public class OneAM {
      * This sets up the entire oneAM sequence including 1 death and 2 possible outcomes based on stats also is where
      * timer starts
      */
+
+
+
     private Scene scene;
     private int conviction = 1; // Variable to track the conviction stat
     private int madness = 1; // Variable to track the madness stat

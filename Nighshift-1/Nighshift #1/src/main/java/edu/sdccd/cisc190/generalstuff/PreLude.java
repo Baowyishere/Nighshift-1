@@ -39,6 +39,7 @@ public class PreLude {
         actionButton.setStyle("-fx-font-size: 14px;");
         actionButton.setOnAction(e -> primaryStage.setScene(new TwelveAM(primaryStage).getScene()));
 
+
         // Set up the BorderPane layout
         BorderPane layout = new BorderPane();
 
