@@ -8,6 +8,9 @@ import javafx.scene.text.Text;
 import javafx.stage.Stage;
 
 public class TwelveAM {
+    /**
+     * This sets up the entire TwelveAM sequence. 2 Choices that lead to same results. Kind of.
+     */
     private final Scene scene;
     private int conviction = 1;   // Variable to track the conviction stat
     private int madness = 1;      // Variable to track the madness stat
