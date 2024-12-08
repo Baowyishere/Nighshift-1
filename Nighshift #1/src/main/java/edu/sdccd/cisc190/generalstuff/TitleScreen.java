@@ -15,7 +15,7 @@ public class TitleScreen {
          */
         // Create the title text
         Text titleText = new Text("The NightShift at SevenGuys\n" +
-                "Isn't entirely perfect, but... it works!!!");
+                "The bad demo");
         titleText.setStyle("-fx-font-size: 30px; -fx-font-weight: bold;");
 
         // Create the start button
